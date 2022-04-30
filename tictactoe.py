@@ -1,3 +1,10 @@
+"""
+Tic tac toe game
+Author: Jesus Tortolero
+
+"""
+
+
 import random
 
 print("Welcome to Tic Tac Toe")
